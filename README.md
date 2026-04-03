@@ -7,7 +7,7 @@ The ZTweaks keyboard macro is extremely overpriced and I don't think anyone shou
 * Windows 10/11.
 
 # How to Use
-* Download and extract the macro ```.zip``` file.
+* Download and extract the macros ```.zip``` file.
 * To use the macros, click on whichever ```.ahk``` file you want to use and it will automatically turn it on. Close it in the tray to turn it off.
 * To change the keybinds, right click on the macro you want to edit and open it in VSCode. The keybinds are global variables.
 * You can also change the timing and even add functions to this macros this way.
