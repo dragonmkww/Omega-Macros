@@ -1,5 +1,5 @@
 # About Omega Macros
-This is basically just a GUI wrapper for the ZTweaks keyboard macro AutoHotKey scripts. The ZTweaks macro is extremely overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was really easy to copy them while the macros were running and paste them elsewhere.
+This is just a free version of all the ZTweaks keyboard macros in one app. The ZTweaks macro is extremely overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was really easy to copy them while the macros were running and paste them elsewhere.
 
 # Dependencies
 * The ```OmegaMacros.exe``` file from the ```Releases``` tab.
@@ -18,6 +18,8 @@ This is basically just a GUI wrapper for the ZTweaks keyboard macro AutoHotKey s
 * ```zuhls_autobuild.ahk``` places builds for you.
 * ```zuhls_drag.ahk``` will edit a building when you hold down your edit key and move your mouse without clicking.
 * ```zuhl_shotgun.ahk``` pulls out your shotgun every time you click your mouse.
+* The ```OmegaMacros.exe``` file is literally just a GUI for the built in scripts which are in this repo in case you want to see the code.
+* This genuinely took 20 minutes to make, I used Claude to make the python script and then compiled the ```.exe```.
 
 # Amazing Devs
 * The shotgun macro requires you to click your mouse, but if you have all the macros enabled you don't even have to click your mouse at all. In fact, clicking your mouse actively interferes with the macros. I don't know how they didn't catch this.
