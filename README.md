@@ -17,8 +17,7 @@ This is just a free version of Zuls macro. Zuls macro is extremely overpriced an
 * ```zuhls_autobuild.ahk``` places builds for you.
 * ```zuhls_drag.ahk``` will edit a building when you hold down your edit key and move your mouse without clicking.
 * ```zuhl_shotgun.ahk``` pulls out your shotgun every time you click your mouse.
-* The ```OmegaMacros.exe``` file is literally just a GUI for the built in scripts which are in this repo in case you want to see the code.
-* This genuinely took 20 minutes to make, I used Claude to make the Python script and then compiled the ```.exe``` file.
+* The ```OmegaMacros.exe``` file is literally just a GUI for the scripts which are in this repo in case you want to see their code. It's written entirely in Python.
 
 # Amazing Devs
 * The shotgun macro requires you to click your mouse, but if you have all the macros enabled you don't even have to click your mouse at all. In fact, clicking your mouse actively interferes with the macros. I don't know how they didn't catch this.
