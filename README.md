@@ -1,10 +1,10 @@
-# THE COMPLETED EXE WILL EITHER BE UP LATER TODAY OR TOMORROW, FOR NOW JUST USE THE REGULAR SCRIPTS
+# (WIP) THE COMPLETED EXE WILL BE UP TOMORROW
 
-# <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> MACROS
-This is a free version of Zuls macro with a custom GUI. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was easy to copy them while the macros were running and paste them elsewhere.
+# <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> Macros
+Omega Macros is a light weight, free, all-in-one alternative to every other popular Fortnite macro. Most macros these days are scams, and the ones that aren't are overpriced garbage. My goal when making Omega Macros was to fix all of these issues and more. It has every macro you could ask for, as well as a unique double edit macro that I haven't seen anywhere else. All for the price of $0.00.
 
 # Dependencies
-* The ```OmegaMacros.exe``` file from the ```Releases``` tab. It's written in Python and you can check the code of all the scripts in this repo if you want.
+* The ```OmegaMacros.exe``` file from the ```Releases``` tab. It's written in Python and you can put it through [VirusTotal](https://www.virustotal.com/gui/home/upload) or [Triage](https://tria.ge/) to verify that it's not malware.
 * AutoHotKey v2.0 which can be downloaded [here](https://www.autohotkey.com/).
 * Windows 10/11.
 
@@ -15,17 +15,9 @@ This is a free version of Zuls macro with a custom GUI. I managed to copy the Au
 * You can also change the timings of each macro.
 
 # The Macros
-* ```zuls_double_edit.ahk``` is really just a single edit macro that you can hold.
-* ```zuhls_autobuild.ahk``` places builds for you.
-* ```zuhls_drag.ahk``` will edit a building when you hold down your edit key and move your mouse without clicking.
-* ```zuhl_shotgun.ahk``` pulls out your shotgun when you click your mouse.
-
-# Amazing Devs
-* The shotgun macro requires you to click your mouse, but if you have all the macros enabled you don't have to click your mouse at all. In fact, clicking your mouse actively interferes with the macros. I don't know how they didn't catch this.
-* The devs misspelled "zuls" as "zuhls" for 3/4 of the AHK file names somehow.
-* If you download the macros from the site, the setup files you receive will run every time you open each of the macro applications. The devs didn't even compile the exe files properly.
-
-# Important Notice
-This isn't illegal. By a stroke of genius, the ZTweaks owners licensed all of their products under the Apache License, which allows for free distribution and modification. The ZTweaks owners can't sue me or take down this repo.
+* A unique double edit macro that does a full double edit just by pressing the trigger key once.
+* An autobuild macro that places builds for you.
+* A drag edit macro that edits tiles by holding down your edit bind without clicking.
+* A pump/pickaxe macro that pulls out your pump or pickaxe automatically before every edit.
 
 # Enjoy!
