@@ -19,5 +19,6 @@ Omega Macros is a light weight, free, all-in-one alternative to every other popu
 * An autobuild macro that places builds for you.
 * A drag edit macro that edits tiles by holding down your edit bind without clicking.
 * A pump/pickaxe/sprint macro that either pulls out your pump, pickaxe, or sprints automatically before every edit.
+* A pickup macro for increased chances of winning off-spawn fights.
 
 # Enjoy!
