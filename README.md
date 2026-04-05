@@ -18,6 +18,6 @@ Omega Macros is a light weight, free, all-in-one alternative to every other popu
 * A unique double edit macro that does a full double edit just by pressing the trigger key once.
 * An autobuild macro that places builds for you.
 * A drag edit macro that edits tiles by holding down your edit bind without clicking.
-* A pump/pickaxe macro that pulls out your pump or pickaxe automatically before every edit.
+* A pump/pickaxe/sprint macro that either pulls out your pump, pickaxe, or sprints automatically before every edit.
 
 # Enjoy!
