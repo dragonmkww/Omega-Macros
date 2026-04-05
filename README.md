@@ -1,4 +1,4 @@
-# (WIP) THE COMPLETED EXE WILL BE UP TOMORROW
+# (WIP) THE COMPLETED EXE WILL BE UP IN A COUPLE DAYS
 
 # <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> Macros
 Omega Macros is a light weight, free, all-in-one alternative to every other popular Fortnite macro. Most macros these days are scams, and the ones that aren't are overpriced garbage. My goal when making Omega Macros was to fix all of these issues and more. It has every macro you could ask for, as well as a unique double edit macro that I haven't seen anywhere else. All for the price of $0.00.
